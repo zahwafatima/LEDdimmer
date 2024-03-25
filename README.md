@@ -9,6 +9,11 @@ Embedded Systems LED Dimmer Project
 <img width="511" alt="image" src="https://github.com/zahwafatima/LEDdimmer/assets/95236604/ccbda479-d89d-45e3-83c8-de59ede90859">
 
 
+**Breadboard Connections**
+
+<img width="408" alt="image" src="https://github.com/zahwafatima/LEDdimmer/assets/95236604/68522839-75b1-4efa-a747-2fb6438b0150">
+
+
 Using the PIC24F16KA101 Microcontroller and the driver functions developed so far, designed a LED Light control App to control the LED brightness or intensity connected on pin 12 and display it using Python. The App will use the push buttons (PBs) connected to the input ports RA2, RA4 and RB4, and LED connected to pin 12 with a 1K resistor.
 PB1, PB2 and PB3 represent push buttons connected to ports RA2, RA4 and RB4 respectively. The
 LED Light control should operate as follows. Used different MCU Peripherals and Drivers namely UART and Timer peripherals for designing this app.
