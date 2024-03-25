@@ -25,6 +25,10 @@ LED Light control should operate as follows. Used different MCU Peripherals and 
 | Python Script | When Python script is run on the computer, it should for a period of 1 min: <ol><li>Capture and Store the intensity levels (0-100%) and average PWM voltage output (Vpwm) supplied by the Microcontroller to the LED vs time (in seconds) in a single CSV or Excel file with proper indexing and column names</li> <li>Plot intensity levels (0-100%) and average voltage output supplied by the Microcontroller to the LED (Vpwm) vs time in seconds on 2 Separate graphs</li> <li>When run in OFF mode, the CSV/Excel file and graphs should show only 0 for intensity and average voltage. The 2 Graphs should display: <ol><li>Title (Intensity in % or PWM voltage Vpwm)</li> <li>X and Y axes labels</li> <li>Pulse Frequency used</li></li></ol> |
 
 
+**Demo**
+https://youtu.be/IP5TtW9Qeco?si=qE1Cci4VPVq_gZlN
+
+
 
 
 
