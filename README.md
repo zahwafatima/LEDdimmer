@@ -1,4 +1,4 @@
-# LEDdimmer
+# LED Dimmer
 Embedded Systems LED Dimmer Project
 
 • Employed the PIC24F16KA101 microcontroller for the precise control of LED intensity via Pulse Width Modulation
